@@ -99,7 +99,7 @@ async def help(bot: Bot, msg: Message):
     chat = msg.id
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton(text="Repository ✨", url="https://github.com/PsychoBots/PhoneDetalis")]]
       )
-      await bot.send_message(chat.id, HELP, reply_markup=reply_markup)
+    await bot.send_message(chat.id, HELP, reply_markup=reply_markup)
       
       #####################
  # By @Alone_loverboy
