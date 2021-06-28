@@ -5,7 +5,7 @@ import requests
 from bot import Bot, Config
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from alternate import send_message
+
 
 
 bot = Bot()
