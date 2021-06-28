@@ -35,7 +35,7 @@ by @Psycho_Bots
 i Can give details for any phone no.🤗which you want 
 you just have to use /phone <your no>
 and i will provide you valid details under the rules of PRIVACY&POLICY.
-Because I don't wanna to go to jail. 🥲
+Because I don't wanna to go ban by telegram
 still i provide you information of a no. expect of name i give whole Details 🤗
 
 **Thanks to**
@@ -95,7 +95,7 @@ async def cancel(bot: Bot, msg: Message):
     
     
 @bot.on_message(filters.private & filters.command("about"))
-async def help(bot: Bot, msg: Message):
+async def about(bot: Bot, msg: Message):
     chat = msg.id
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton(text="Repository ✨", url="https://github.com/PsychoBots/PhoneDetalis")]]
       )
