@@ -76,4 +76,3 @@ async def phone(bot: Bot, msg: Message):
        [[InlineKeyboardButton(text="•Credits•❤️", url="https://t.me/uunitedbotsupport")]]
     )
     await bot.send_message(chat.id, CANCEL, reply_markup=reply_markupp)
-    return await bot.sleep(msg)
