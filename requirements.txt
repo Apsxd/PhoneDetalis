@@ -7,3 +7,4 @@ pyrogram
 pyromod
 
 TgCrypto
+telegram
