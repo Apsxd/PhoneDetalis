@@ -8,4 +8,4 @@ pyromod
 
 TgCrypto
 telegram
-telegram.error
+
