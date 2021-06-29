@@ -18,7 +18,7 @@ just Paste Your Number in International format👀
 Use /cancel TO STOP ALL PROGRESS 
 use /phone <Your phone no>
 
-REPORT ANY BUGS&ISSUE** AT 
+**REPORT ANY BUGS&ISSUE** AT 
 ~ SUPPORT ~
 """
 
